@@ -8,6 +8,7 @@ import java.io.InputStreamReader;
 
 /*this is a template of GraphViz*/
 
+/* test-B1 */
 
 /**
  * <dl>
