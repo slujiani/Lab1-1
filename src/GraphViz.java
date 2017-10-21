@@ -8,11 +8,6 @@ import java.io.InputStreamReader;
 
 /*this is a template of GraphViz*/
 
-/* change-B2 */
-
-
-/* test for task4 */
-
 
 /**
  * <dl>
@@ -51,8 +46,8 @@ import java.io.InputStreamReader;
 public class GraphViz
 {
 
-   private static String TEMP_DIR = "/Users/DongSky/temp";
-   private static String DOT = "/usr/local/bin/dot";
+   private static String TEMP_DIR = "c:/temp";
+   private static String DOT = "E:\\Graphviz2.38\\bin\\dot.exe";
 
  private StringBuilder graph = new StringBuilder();
 
